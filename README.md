@@ -24,10 +24,6 @@
   Official implementation-style repository for <b>An Integrated MediaPipe-Optimized GRU Model for Indian Sign Language Recognition</b>.
 </p>
 
-<p align="center">
-  <img src="assets/mopgru_pipeline.jpg" width="850">
-</p>
-
 ---
 
 ## 📚 Table of Contents
@@ -88,7 +84,7 @@ The paper reports that MOPGRU achieves better learning efficiency and prediction
 ## 🏗️ System Architecture
 
 <p align="center">
-  <img src="assets/mopgru_architecture.jpg" width="850">
+  <img src="assets/mopgru_pipeline.png" width="850">
 </p>
 
 The complete pipeline has three stages:
