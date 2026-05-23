@@ -1,7 +1,7 @@
 <h1 align="center">
   An integrated mediapipe-optimized GRU model for Indian sign language recognition
 </h1>
-
+   
 <p align="center">
   📄 <b>Published in Scientific Reports, Nature Portfolio</b> 📄
 </p>
